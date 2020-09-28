@@ -2,7 +2,7 @@
 #define GRAFO_H
 #include <string>
 #include <sstream>
-#include <lista_doble_ligada.h>
+#include "lista_doble_ligada.h"
 #include <iostream>
 
 using namespace std;

@@ -1,10 +1,9 @@
 #ifndef MENU_H
 #define MENU_H
 
-#include<stdlib.h>
-#include<time.h>
+#include <stdlib.h>
+#include <time.h>
 #include <vector>
-#include <user.h>
 #include <iostream>
 #include <fstream>
 #include "lista_doble_ligada.h"
@@ -12,6 +11,7 @@
 #include "grafo.h"
 #include "location.h"
 #include "indice.h"
+#include "user.h"
 using namespace std;
 
 class Menu
